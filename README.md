@@ -29,10 +29,6 @@ Algumas casas possuem eventos especiais que podem beneficiar ou prejudicar o jog
 
 É necessário ter o **Python 3.x** instalado.
 
-```bash
-python3 --version
-```
-
 ### Clonar o Repositório
 
 ```bash
