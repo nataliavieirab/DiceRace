@@ -27,7 +27,7 @@ Algumas casas possuem eventos especiais que podem beneficiar ou prejudicar o jog
 
 ### Pré-requisitos
 
-É necessário ter o **Python 3.x** instalado.
+É necessário ter o **Python 3.9.12** instalado.
 
 ### Clonar o Repositório
 
